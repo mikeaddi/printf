@@ -14,6 +14,10 @@
 #define F_HASH 8
 #define F_SPACE 16
 
+/* SIZES */
+#define S_LONG 2
+#define S_SHORT 1
+
 /**
  * struct fmt - Struct op
  *
